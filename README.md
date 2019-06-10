@@ -12,3 +12,13 @@ source .venv/bin/activate
 pip install --upgrade pip setuptools
 pip install -r requirements
 ```
+
+## Run the code
+
+Just run the `main.py` file in each subfolder. For example:
+
+```bash
+python -m confidence_intervals.main
+```
+
+Or if you use VSCode make use of its [Jupyter support](https://code.visualstudio.com/docs/python/jupyter-support)
