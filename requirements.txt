@@ -1,0 +1,18 @@
+numpy
+pandas
+matplotlib
+sklearn
+seaborn
+jupyter
+statsmodels
+################################################################################
+# Altair Viz
+#
+altair
+vega_datasets
+notebook
+vega
+################################################################################
+# pandas.read_excel()
+#
+xlrd==1.2.0
